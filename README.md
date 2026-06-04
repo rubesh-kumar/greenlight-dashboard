@@ -1,4 +1,4 @@
-# Greenlight Momentum
+# Greenlight Momentum Strategy
 
 A rules-based monthly momentum strategy for the Nifty 500, with a full workflow
 from data collection to backtesting to a live stock-selection dashboard.
